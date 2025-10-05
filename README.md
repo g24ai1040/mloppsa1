@@ -5,7 +5,7 @@ It demonstrates usage of **Git branching** and **GitHub Actions (CI/CD)** for ML
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `requirements.txt` → Python dependencies
 - `misc.py` → Generic helper functions (data loading, preprocessing, training, evaluation)
@@ -16,7 +16,7 @@ It demonstrates usage of **Git branching** and **GitHub Actions (CI/CD)** for ML
 
 ---
 
-## 🔀 Branches
+## Branches
 
 - **main** → Base branch (merged with `dtree`)
 - **dtree** → Contains `train.py`, `misc.py`, `requirements.txt`
@@ -24,7 +24,7 @@ It demonstrates usage of **Git branching** and **GitHub Actions (CI/CD)** for ML
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 1. Clone this repo:
    ```bash
